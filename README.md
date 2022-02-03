@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @stepger
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Software Engineer | Generalist
+- 👀 I’m interested in Web technologies, and electronics
+- ✨ Developing apps in C/C++, Qt, HTML, CSS, JavaScript, PHP
+
+<!-- - 🌱 I’m currently learning Go, Kubernets -->
+<!-- -💞️ I’m looking to collaborate on interesting projects -->
+<!-- - 📫 How to reach me ... -->
 
 <!---
 stepger/stepger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
